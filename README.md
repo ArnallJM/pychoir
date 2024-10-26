@@ -1,3 +1,3 @@
 # Pychoir
 
-_A choir. A database.
+_A choir. A database._
